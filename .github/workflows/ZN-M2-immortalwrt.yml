@@ -1,5 +1,5 @@
 #CI项目
-name: zn-m2-wifi-no
+name: zn-m2-wifi-no-immortalwrt
 
 #CI计划
 on:
